@@ -141,5 +141,3 @@ This project demonstrates **professional-grade database design** for a complex g
 - **Economic Modeling:** Item usage and resource flow  
 - **Performance Monitoring:** System load and database optimization  
 
----
-
