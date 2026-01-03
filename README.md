@@ -4,20 +4,20 @@ A complete relational database system for **FreakyMon GO**, a mobile game featur
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 This project simulates the **backend database** of a Pokémon GO–style game.  
 It was developed for the **SICI-4030 – Database Systems** course to demonstrate advanced relational database design principles.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 - Design and implement a robust database simulating **real-world game mechanics**.  
 - Support player progression, creature collection, battles, and inventory management.  
 - Showcase **complex relationships** including recursive, ternary, and many-to-many structures.  
 
 ---
 
-## 🗃️ Database Architecture
+## Database Architecture
 
 ### Design Specifications
 - **16 total tables** organized by complexity levels  
@@ -36,7 +36,7 @@ It was developed for the **SICI-4030 – Database Systems** course to demonstrat
 
 ---
 
-## 📊 Design Documentation
+## Design Documentation
 ### Entity-Attribute Matrix
 <img width="1474" height="796" alt="Entity Matrix" src="https://github.com/user-attachments/assets/b56acd4b-ab83-43a4-8127-5501f2a627c2" />
 
@@ -45,7 +45,7 @@ It was developed for the **SICI-4030 – Database Systems** course to demonstrat
 
 ---
 
-## ⚙️ Technical Implementation
+## Technical Implementation
 
 ### Database Features
 - **Platform:** Oracle SQL  
@@ -54,7 +54,7 @@ It was developed for the **SICI-4030 – Database Systems** course to demonstrat
 
 ---
 
-## 🎮 Game Mechanics Simulated
+## Game Mechanics Simulated
 
 ### Core Systems
 - **Player Progression**
@@ -83,7 +83,7 @@ It was developed for the **SICI-4030 – Database Systems** course to demonstrat
 
 ---
 
-## ✅ Project Deliverables
+## Project Deliverables
 
 ### Technical Components
 - Complete **DDL Implementation** (all 16 tables with constraints)  
@@ -100,7 +100,7 @@ It was developed for the **SICI-4030 – Database Systems** course to demonstrat
 
 ---
 
-## 🔬 Key Technical Achievements
+## Key Technical Achievements
 
 ### Advanced Features
 - **Recursive Evolution Tracking** – modeling creature evolution chains  
@@ -118,7 +118,7 @@ Supports analytical queries for:
 
 ---
 
-## 📈 Project Significance
+## Project Significance
 This project demonstrates **professional-grade database design** for a complex game system by showcasing:  
 - Scalable architecture capable of supporting thousands of players  
 - Data integrity through comprehensive constraints  
@@ -127,7 +127,7 @@ This project demonstrates **professional-grade database design** for a complex g
 
 ---
 
-## 🎯 System Capabilities
+## System Capabilities
 
 ### Data Management
 - **Player Accounts:** Secure profile management and progression tracking  
